@@ -1,0 +1,7 @@
+ALGORITHM: 
+   1.Start
+   2.Declaration part body of the loop
+   3.Check whether the condition is true
+   4.If true the condition execute 
+   5.Otherwise go back to the declaration part body of the loop
+   6.End
